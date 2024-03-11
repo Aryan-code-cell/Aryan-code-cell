@@ -1,5 +1,18 @@
 ### Hi there 👋
-🌱 I’m currently learning ...
+
+💫 About Me:
+🔭 I’m currently in College :
+Versatile Programmer and Web developer adept at crafting robust solutions. 🚀
+
+👯 I’m looking for some Collabration in Real World Projects :
+Fullstack projects using MERN
+
+💬 Ask me about:
+DSA, JavaScript, React, Nextjs, Node.js, and any general software development questions.
+
+⚡ Fun fact:
+I love Passionate Coders and Consistent Learner`s 👀.
+
 😄 Pronouns: Kite_Puncher
 
 <!--
