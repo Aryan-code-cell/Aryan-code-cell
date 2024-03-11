@@ -1,4 +1,6 @@
 ### Hi there 👋
+🌱 I’m currently learning ...
+😄 Pronouns: Kite_Puncher
 
 <!--
 **Aryan-code-cell/Aryan-code-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
